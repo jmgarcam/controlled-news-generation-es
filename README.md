@@ -141,3 +141,15 @@ To analyze the effect of stochastic parameters on text characteristics, the Mode
 ├── docker-compose.yml        # Service orchestration
 ├── create_network.sh         # Network setup script
 ```
+
+---
+
+## License
+
+This project is licensed under the terms of the [GNU General Public License (GPL) version 3](https://www.gnu.org/licenses/gpl-3.0.html).
+
+**Authors:**
+- José Manuel García Campos
+- Agustín Walabonso Lara Delgado
+- Vicente Jesús Mayor Gallego
+- Jorge Calvillo Arbizu
